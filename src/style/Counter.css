@@ -1,0 +1,15 @@
+#counter {
+    background: linear-gradient(
+        rgba(0, 123, 255, 0.8), 
+        rgba(0, 123, 255, 0.8)
+    ), 
+    url(../img/teamwork.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.section-padding {
+  padding-top: 140px;
+  padding-bottom: 140px;
+}
